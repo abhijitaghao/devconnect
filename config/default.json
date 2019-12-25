@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://abhijit1234:abhijit1234@devconnector-sr7nk.mongodb.net/test?retryWrites=true",
-  "jwtSecret": "WghrTi@342334"
+  "jwtSecret": "WghrTi@342334",
+  "gitClientId": "396ecf815083113be21f",
+  "gitClientSecret": "2f2b9ef59209439ab131d8e095133ef87239cd55"
 }
